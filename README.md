@@ -14,9 +14,9 @@ I'm passionated about programming in general <img src="https://c.tenor.com/rMxNr
 
 [![][1.2]][1]
 [![][1.3]][2]
+[![][1.6]][5]
 [![][1.4]][3]
 [![][1.5]][4]
-[![][1.6]][5]
 
 ---
 
@@ -60,7 +60,7 @@ I'm passionated about programming in general <img src="https://c.tenor.com/rMxNr
 [1.3]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [1.4]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 [1.5]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-[1.6]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[1.6]: https://img.shields.io/badge/website-8cc767?style=for-the-badge&logo=About.me&logoColor=white
 
 <!-- Links to your social media accounts -->
 
