@@ -10,7 +10,13 @@ I'm Jordan, a **Data Scientist** :technologist::man_scientist: working in the su
 
 I'm passionated about programming in general <img src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" width="100px">
 
-You can find more information about myself by either checking my [website](https://jordan-vuong.herokuapp.com/) or on [![LinkedIn][1.2]][1]
+### Profiles
+
+[![][1.2]][1]
+[![][1.3]][2]
+[![][1.4]][3]
+[![][1.5]][4]
+[![][1.6]][5]
 
 ---
 
@@ -18,39 +24,48 @@ You can find more information about myself by either checking my [website](https
 
 ### Languages & Tools
 
-![](https://img.shields.io/badge/Python-Language-success?logo=Python)
-![](https://img.shields.io/badge/MySQL-Library-success?logo=MySql)
-![](https://img.shields.io/badge/Git-Library-success?logo=Git)
-![](https://img.shields.io/badge/Bash-Library-success?logo=GNU-Bash)
-![](https://img.shields.io/badge/MongoDB-Library-success?logo=MongoDB)
-![](https://img.shields.io/badge/Docker-Library-success?logo=Docker)
-![](https://img.shields.io/badge/HTML-Library-success?logo=HTML5)
-![](https://img.shields.io/badge/CSS-Library-success?logo=CSS3)
-![](https://img.shields.io/badge/JavaScript-Library-success?logo=JavaScript)
-![](https://img.shields.io/badge/Heroku-Library-success?logo=Heroku)
+![](https://img.shields.io/badge/Python-4fd1b3?logo=Python)
+![](https://img.shields.io/badge/MySQL-4fd1b3?logo=MySql)
+![](https://img.shields.io/badge/MongoDB-4fd1b3?logo=MongoDB)
+![](https://img.shields.io/badge/Linux-4fd1b3?logo=Linux)
+![](https://img.shields.io/badge/Git-4fd1b3?logo=Git)
+![](https://img.shields.io/badge/Bash-4fd1b3?logo=GNU-Bash)
+![](https://img.shields.io/badge/Docker-4fd1b3?logo=Docker)
+![](https://img.shields.io/badge/HTML-4fd1b3?logo=HTML5)
+![](https://img.shields.io/badge/CSS-4fd1b3?logo=CSS3)
+![](https://img.shields.io/badge/JavaScript-4fd1b3?logo=JavaScript)
+![](https://img.shields.io/badge/Heroku-4fd1b3?logo=Heroku)
 
 
 ### Libraries
 
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/scikit--learn-Library-success?logo=scikit-learn)
-![](https://img.shields.io/badge/Selenium-Library-success?logo=Selenium)
-![](https://img.shields.io/badge/Pandas-Library-success?logo=pandas)
-![](https://img.shields.io/badge/Flask-Library-success?logo=Flask)
-![](https://img.shields.io/badge/Plotly-Library-success?logo=Plotly)
-![](https://img.shields.io/badge/OpenCV-Library-success?logo=OpenCV)
-![](https://img.shields.io/badge/Scrapy-Library-success)
-![](https://img.shields.io/badge/BeautifulSoup-Library-success)
-![](https://img.shields.io/badge/spaCy-Library-success)
-![](https://img.shields.io/badge/HuggingFace-Library-success)
+![](https://img.shields.io/badge/Keras-2155b5?logo=Keras)
+![](https://img.shields.io/badge/scikit--learn-2155b5?logo=scikit-learn)
+![](https://img.shields.io/badge/Selenium-2155b5?logo=Selenium)
+![](https://img.shields.io/badge/Pandas-2155b5?logo=pandas)
+![](https://img.shields.io/badge/Flask-2155b5?logo=Flask)
+![](https://img.shields.io/badge/Django-2155b5?logo=Django)
+![](https://img.shields.io/badge/Plotly-2155b5?logo=Plotly)
+![](https://img.shields.io/badge/OpenCV-2155b5?logo=OpenCV)
+![](https://img.shields.io/badge/Scrapy-2155b5)
+![](https://img.shields.io/badge/BeautifulSoup-2155b5)
+![](https://img.shields.io/badge/spaCy-2155b5)
+![](https://img.shields.io/badge/HuggingFace-2155b5)
 
 
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[1.3]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[1.4]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+[1.5]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+[1.6]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/jordan-vuong-6ab49b158/
-
+[2]: mailto:jordan.vuong96@gmail.com
+[3]: https://leetcode.com/Jordan9675/
+[4]: https://www.kaggle.com/jordan75
+[5]: https://jordan-vuong.herokuapp.com/
