@@ -6,9 +6,9 @@
 ---
 ## Me, Myself & I
 
-I'm Jordan, a **Data Scientist** :technologist::man_scientist: working in the subdomain of **NLP** in Paris.
+I'm Jordan, a **Data Scientist** :technologist::bar_chart: working in the subdomain of **NLP** in Paris.
 
-I'm passionated about programming in general <img src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" width="100px">
+Along with Data Science, I'm also passionated about programming in general &nbsp; <img src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" width="100px">
 
 ### Profiles
 
@@ -29,13 +29,17 @@ I'm passionated about programming in general <img src="https://c.tenor.com/rMxNr
 ![](https://img.shields.io/badge/MongoDB-4fd1b3?logo=MongoDB)
 ![](https://img.shields.io/badge/Linux-4fd1b3?logo=Linux)
 ![](https://img.shields.io/badge/Git-4fd1b3?logo=Git)
+![](https://img.shields.io/badge/Azure-4fd1b3?logo=Azure-Devops)
+![](https://img.shields.io/badge/GitLab-4fd1b3?logo=GitLab)
+![](https://img.shields.io/badge/Github-4fd1b3?logo=Github)
+
 ![](https://img.shields.io/badge/Bash-4fd1b3?logo=GNU-Bash)
 ![](https://img.shields.io/badge/Docker-4fd1b3?logo=Docker)
 ![](https://img.shields.io/badge/HTML-4fd1b3?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-4fd1b3?logo=CSS3)
 ![](https://img.shields.io/badge/JavaScript-4fd1b3?logo=JavaScript)
 ![](https://img.shields.io/badge/Heroku-4fd1b3?logo=Heroku)
-
+![](https://img.shields.io/badge/VSCode-4fd1b3?logo=Visual-Studio-Code)
 
 ### Libraries
 
