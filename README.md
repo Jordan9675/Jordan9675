@@ -27,6 +27,7 @@ You can find more information about myself by either checking my [website](https
 ![](https://img.shields.io/badge/HTML-Library-success?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-Library-success?logo=CSS3)
 ![](https://img.shields.io/badge/JavaScript-Library-success?logo=JavaScript)
+![](https://img.shields.io/badge/Heroku-Library-success?logo=Heroku)
 
 
 ### Libraries
@@ -35,19 +36,15 @@ You can find more information about myself by either checking my [website](https
 ![](https://img.shields.io/badge/scikit--learn-Library-success?logo=scikit-learn)
 ![](https://img.shields.io/badge/Selenium-Library-success?logo=Selenium)
 ![](https://img.shields.io/badge/Pandas-Library-success?logo=pandas)
-![](https://img.shields.io/badge/Scrapy-Library-success?logo=Keras)
-![](https://img.shields.io/badge/BeautifulSoup-Library-success?logo=Keras)
 ![](https://img.shields.io/badge/Flask-Library-success?logo=Flask)
+![](https://img.shields.io/badge/Plotly-Library-success?logo=Plotly)
+![](https://img.shields.io/badge/OpenCV-Library-success?logo=OpenCV)
+![](https://img.shields.io/badge/Scrapy-Library-success)
+![](https://img.shields.io/badge/BeautifulSoup-Library-success)
+![](https://img.shields.io/badge/spaCy-Library-success)
+![](https://img.shields.io/badge/HuggingFace-Library-success)
 
 
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
-![](https://img.shields.io/badge/Keras-Library-success?logo=Keras)
 
 <!-- Icons -->
 
