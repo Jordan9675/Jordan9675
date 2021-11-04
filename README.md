@@ -50,6 +50,7 @@ Along with Data Science, I'm also passionated about programming in general &nbsp
 ![](https://img.shields.io/badge/Flask-2155b5?logo=Flask)
 ![](https://img.shields.io/badge/Django-2155b5?logo=Django)
 ![](https://img.shields.io/badge/Plotly-2155b5?logo=Plotly)
+
 ![](https://img.shields.io/badge/OpenCV-2155b5?logo=OpenCV)
 ![](https://img.shields.io/badge/Scrapy-2155b5)
 ![](https://img.shields.io/badge/BeautifulSoup-2155b5)
