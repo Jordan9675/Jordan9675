@@ -1,4 +1,4 @@
-# Hi there fellow stalker 🥸, nice too meet you ! 👋
+# Hi there fellow stalker :disguised_face:, nice too meet you ! 👋
 
 [![Header](https://raw.githubusercontent.com/nofacer/pic_bed/master/banner.png
  "Header")](https://some-url.dev/)
