@@ -28,6 +28,7 @@ Along with Data Science, I'm also passionated about programming in general &nbsp
 ![](https://img.shields.io/badge/MySQL-4fd1b3?logo=MySql)
 ![](https://img.shields.io/badge/MongoDB-4fd1b3?logo=MongoDB)
 ![](https://img.shields.io/badge/Linux-4fd1b3?logo=Linux)
+![](https://img.shields.io/badge/Ubuntu-4fd1b3?logo=Ubuntu)
 ![](https://img.shields.io/badge/Git-4fd1b3?logo=Git)
 ![](https://img.shields.io/badge/Azure-4fd1b3?logo=Azure-Devops)
 ![](https://img.shields.io/badge/GitLab-4fd1b3?logo=GitLab)
@@ -35,22 +36,27 @@ Along with Data Science, I'm also passionated about programming in general &nbsp
 
 ![](https://img.shields.io/badge/Bash-4fd1b3?logo=GNU-Bash)
 ![](https://img.shields.io/badge/Docker-4fd1b3?logo=Docker)
+![](https://img.shields.io/badge/Heroku-4fd1b3?logo=Heroku)
+![](https://img.shields.io/badge/Spyder-4fd1b3?logo=Spyder-IDE)
+![](https://img.shields.io/badge/Jupyter-4fd1b3?logo=Jupyter)
+![](https://img.shields.io/badge/VSCode-4fd1b3?logo=Visual-Studio-Code)
+![](https://img.shields.io/badge/LaTeX-4fd1b3?logo=LaTeX)
 ![](https://img.shields.io/badge/HTML-4fd1b3?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-4fd1b3?logo=CSS3)
+
 ![](https://img.shields.io/badge/JavaScript-4fd1b3?logo=JavaScript)
-![](https://img.shields.io/badge/Heroku-4fd1b3?logo=Heroku)
-![](https://img.shields.io/badge/VSCode-4fd1b3?logo=Visual-Studio-Code)
 
 ### Libraries
 
 ![](https://img.shields.io/badge/Keras-2155b5?logo=Keras)
+![](https://img.shields.io/badge/Tensorflow-2155b5?logo=Tensorflow)
 ![](https://img.shields.io/badge/scikit--learn-2155b5?logo=scikit-learn)
 ![](https://img.shields.io/badge/Selenium-2155b5?logo=Selenium)
 ![](https://img.shields.io/badge/Pandas-2155b5?logo=pandas)
 ![](https://img.shields.io/badge/Flask-2155b5?logo=Flask)
 ![](https://img.shields.io/badge/Django-2155b5?logo=Django)
-![](https://img.shields.io/badge/Plotly-2155b5?logo=Plotly)
 
+![](https://img.shields.io/badge/Plotly-2155b5?logo=Plotly)
 ![](https://img.shields.io/badge/OpenCV-2155b5?logo=OpenCV)
 ![](https://img.shields.io/badge/Scrapy-2155b5)
 ![](https://img.shields.io/badge/BeautifulSoup-2155b5)
