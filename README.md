@@ -1,7 +1,7 @@
 # Hi there fellow stalker, nice to meet you ! 👋
 
 [![Header](https://raw.githubusercontent.com/nofacer/pic_bed/master/banner.png
- "Header")](https://some-url.dev/)
+ "Header")]()
 
 ---
 ## Me, Myself & I
@@ -56,6 +56,10 @@ Along with Data Science, I'm also passionated about programming in general &nbsp
 ![](https://img.shields.io/badge/BeautifulSoup-2155b5)
 ![](https://img.shields.io/badge/spaCy-2155b5)
 ![](https://img.shields.io/badge/HuggingFace-2155b5)
+![](https://img.shields.io/badge/Gensim-2155b5)
+![](https://img.shields.io/badge/NLTK-2155b5)
+
+
 
 
 
