@@ -1,7 +1,4 @@
-# Hi there fellow stalker, nice to meet you ! 👋
-
-[![Header](https://raw.githubusercontent.com/nofacer/pic_bed/master/banner.png
- "Header")]()
+<img src="./header.png">
 
 ---
 ## Me, Myself & I
